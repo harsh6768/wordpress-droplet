@@ -19,22 +19,24 @@
   
   ### Open a terminal and run the following command:
         
-           ssh-keygen
+         ssh-keygen
            
 You will be prompted to save and name the key.
 
 Generating public/private rsa key pair. Enter file in which to save the key (/Users/USER/.ssh/id_rsa):
        
-        Next you will be asked to create and confirm a passphrase for the key (highly recommended):
-        Enter passphrase (empty for no passphrase):
-        Enter same passphrase again:
+Next you will be asked to create and confirm a passphrase for the key (highly recommended):
+ 
+ 
+       Enter passphrase (empty for no passphrase):
+       Enter same passphrase again:
 
     
-    This will generate two files, by default called id_rsa and id_rsa.pub. Next, add this public key.
+This will generate two files, by default called id_rsa and id_rsa.pub. Next, add this public key.
     
    ### Copy and paste the contents of the .pub file, typically id_rsa.pub, into the SSH key content field on the left.
     
-        cat ~/.ssh/id_rsa.pub
+       cat ~/.ssh/id_rsa.pub
 
 and then paste it and give some name to it.
   

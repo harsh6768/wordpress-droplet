@@ -48,7 +48,7 @@ and then paste it and give some name to it.
 
 ## STEP 2. SETUP LAMP(LINUX,APACHE,MYSQL,PHP) and install Wordpress in it and do setup of wordpress. 
 
-    Follow below link and follow steps to install the lamp stack and setup wordpress. 
+ Follow below link and follow steps to install the lamp stack and setup wordpress. 
     
  
  https://github.com/harsh6768/setup-wordpresss-ec2

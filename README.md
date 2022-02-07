@@ -61,7 +61,11 @@ and then paste it and give some name to it.
 https://github.com/harsh6768/deploy-in-ec2
 
 
-### Step 4.
+### Step 4. First Change Wordpress from root to sub directory. 
+
+
+
+
 
 <img src="https://github.com/harsh6768/wordpress-droplet/blob/main/Screenshots/Screenshot%202022-02-07%20at%205.45.18%20PM.png"/>
 

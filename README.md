@@ -60,3 +60,12 @@ and then paste it and give some name to it.
 
 https://github.com/harsh6768/deploy-in-ec2
 
+
+### Step 4.
+
+<img src="https://github.com/harsh6768/wordpress-droplet/blob/main/Screenshots/Screenshot%202022-02-07%20at%205.45.18%20PM.png"/>
+
+<img src="https://github.com/harsh6768/wordpress-droplet/blob/main/Screenshots/Screenshot%202022-02-07%20at%205.45.55%20PM.png"/>
+
+<img src="https://github.com/harsh6768/wordpress-droplet/blob/main/Screenshots/Screenshot%202022-02-07%20at%205.46.08%20PM.png"/>
+

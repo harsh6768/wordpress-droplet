@@ -73,3 +73,22 @@ https://github.com/harsh6768/deploy-in-ec2
 
 <img src="https://github.com/harsh6768/wordpress-droplet/blob/main/Screenshots/Screenshot%202022-02-07%20at%205.46.08%20PM.png"/>
 
+
+### Step 5. Upload react project or website build in digital ocean droplet . 
+
+<img src="https://github.com/harsh6768/wordpress-droplet/blob/main/Screenshots/Screenshot%202022-02-08%20at%204.40.56%20PM.png"/>
+
+<img src="https://github.com/harsh6768/wordpress-droplet/blob/main/Screenshots/Screenshot%202022-02-08%20at%204.43.44%20PM.png"/>
+
+<img src="https://github.com/harsh6768/wordpress-droplet/blob/main/Screenshots/Screenshot%202022-02-08%20at%204.44.08%20PM.png"/>
+
+<img src="https://github.com/harsh6768/wordpress-droplet/blob/main/Screenshots/Screenshot%202022-02-08%20at%205.12.56%20PM.png"/>
+
+<img src="https://github.com/harsh6768/wordpress-droplet/blob/main/Screenshots/Screenshot%202022-02-08%20at%205.03.52%20PM.png"/>
+
+<img src="https://github.com/harsh6768/wordpress-droplet/blob/main/Screenshots/Screenshot%202022-02-08%20at%205.04.04%20PM.png"/>
+
+<img src="https://github.com/harsh6768/wordpress-droplet/blob/main/Screenshots/Screenshot%202022-02-08%20at%205.09.23%20PM.png"/>
+
+<img src="https://github.com/harsh6768/wordpress-droplet/blob/main/Screenshots/Screenshot%202022-02-08%20at%205.11.07%20PM.png"/>
+

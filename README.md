@@ -74,7 +74,11 @@ https://github.com/harsh6768/deploy-in-ec2
 <img src="https://github.com/harsh6768/wordpress-droplet/blob/main/Screenshots/Screenshot%202022-02-07%20at%205.46.08%20PM.png"/>
 
 
-### Step 5. Upload react project or website build in digital ocean droplet . 
+### Step 5. Upload react project or website build in digital ocean droplet using FileZilla .
+
+ #### Step 1. Install FileZilla in your system
+ 
+ https://filezilla-project.org/
 
 <img src="https://github.com/harsh6768/wordpress-droplet/blob/main/Screenshots/Screenshot%202022-02-08%20at%204.40.56%20PM.png"/>
 

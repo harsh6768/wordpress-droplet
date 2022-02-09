@@ -101,7 +101,7 @@ https://github.com/harsh6768/deploy-in-ec2
 <img src="https://github.com/harsh6768/wordpress-droplet/blob/main/Screenshots/Screenshot%202022-02-08%20at%205.03.52%20PM.png"/>
 <img src="https://github.com/harsh6768/wordpress-droplet/blob/main/Screenshots/Screenshot%202022-02-08%20at%205.04.04%20PM.png"/>
 
-         and then restart the sshd 
+ and then restart the sshd 
            
            service sshd restart
           

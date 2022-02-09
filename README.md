@@ -64,8 +64,16 @@ https://github.com/harsh6768/deploy-in-ec2
 ### Step 4. First Change Wordpress from root to sub directory. 
 
 
-
-
+  ##### 1. Create sub-directory in /var/www/html path
+    
+          sudo mkdir blog
+       
+  ##### 2. Copy and paste all the files of wordpress from root /var/www/html directory to /var/www/html/blog
+    
+       
+          sudo cp -R ./wp*    ./blog/
+          
+  #### 3. Change post and other configuration like site url of this blog to PUBLIC_IP/blog
 
 <img src="https://github.com/harsh6768/wordpress-droplet/blob/main/Screenshots/Screenshot%202022-02-07%20at%205.45.18%20PM.png"/>
 

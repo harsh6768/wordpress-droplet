@@ -82,17 +82,34 @@ https://github.com/harsh6768/deploy-in-ec2
  
  #### Step 2. Connect FileZilla with droplet to upload file from local system .
  
-            vi  /etc/ssh/sshd_config
-
+    Enter details of the droplet server  to connect 
+    
 <img src="https://github.com/harsh6768/wordpress-droplet/blob/main/Screenshots/Screenshot%202022-02-08%20at%204.40.56%20PM.png"/>
 
 <img src="https://github.com/harsh6768/wordpress-droplet/blob/main/Screenshots/Screenshot%202022-02-08%20at%204.43.44%20PM.png"/>
 
 <img src="https://github.com/harsh6768/wordpress-droplet/blob/main/Screenshots/Screenshot%202022-02-08%20at%204.44.08%20PM.png"/>
 
+  If you are getting above error then you need to configuration of sshd_config file so that you can connect with server using password
+
+ #### Step 3. Login to droplet server and edit the file sshd_config .
+ 
+ 
+           vi  /etc/ssh/sshd_config
+           
+
+
 <img src="https://github.com/harsh6768/wordpress-droplet/blob/main/Screenshots/Screenshot%202022-02-08%20at%205.12.56%20PM.png"/>
 
 <img src="https://github.com/harsh6768/wordpress-droplet/blob/main/Screenshots/Screenshot%202022-02-08%20at%205.03.52%20PM.png"/>
+
+         
+         and then restart the sshd 
+           
+           service sshd restart
+           
+
+### Step 4. Now Come to FileZilla connect the server and upload the file
 
 <img src="https://github.com/harsh6768/wordpress-droplet/blob/main/Screenshots/Screenshot%202022-02-08%20at%205.04.04%20PM.png"/>
 

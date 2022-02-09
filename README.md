@@ -78,7 +78,11 @@ https://github.com/harsh6768/deploy-in-ec2
 
  #### Step 1. Install FileZilla in your system
  
- https://filezilla-project.org/
+  https://filezilla-project.org/
+ 
+ #### Step 2. Connect FileZilla with droplet to upload file from local system .
+ 
+            vi  /etc/ssh/sshd_config
 
 <img src="https://github.com/harsh6768/wordpress-droplet/blob/main/Screenshots/Screenshot%202022-02-08%20at%204.40.56%20PM.png"/>
 
